@@ -1,0 +1,19 @@
+{
+  "name": "angular-create-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular-create-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylan-baskind/angular-create-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-baskind/angular-create-ui/issues"
+  },
+  "homepage": "https://github.com/dylan-baskind/angular-create-ui"
+}
